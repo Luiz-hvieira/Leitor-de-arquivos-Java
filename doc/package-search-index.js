@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.alura.leitor.de.arquivos.classesAuxiliares"},{"l":"br.com.alura.leitor.de.arquivos.mainProgram"}];updateSearchResults();

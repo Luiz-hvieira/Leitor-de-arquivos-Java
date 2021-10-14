@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"br.com.alura.leitor.de.arquivos.classesAuxiliares","l":"Escritor"},{"p":"br.com.alura.leitor.de.arquivos.classesAuxiliares","l":"Leitor"},{"p":"br.com.alura.leitor.de.arquivos.mainProgram","l":"LeitorDeArquivosJava"}];updateSearchResults();
